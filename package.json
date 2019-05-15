@@ -11,7 +11,7 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "moment-timezone": "^0.5.25"
+    "moment-timezone": "0.5.23"
   },
   "devDependencies": {
     "babel": "^6.23.0",
